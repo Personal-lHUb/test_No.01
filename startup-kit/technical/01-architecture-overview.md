@@ -93,7 +93,7 @@
 4. PMI deposita importo su escrow Stripe
 5. Milestone 1 completata → freelance notifica
 6. PMI approva → Stripe rilascia milestone 1 al netto royalty
-7. PRONET riceve royalty automaticamente via Stripe Connect
+7. TALENTIO riceve royalty automaticamente via Stripe Connect
 8. Fattura auto-generata per entrambe le parti
 9. Fine progetto → review reciproca obbligatoria
 ```

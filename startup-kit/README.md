@@ -1,4 +1,4 @@
-# PRONET — Startup Kit Completo
+# TALENTIO — Startup Kit Completo
 
 > **PMI & Freelancer Tech Network · AI-Native**  
 > Versione 1.0 · Maggio 2026 · Seed Stage · Confidenziale
@@ -23,7 +23,7 @@
 
 ## La visione in 30 secondi
 
-**PRONET** è il primo marketplace AI-native per il settore Tech/Digital/IT italiano che:
+**TALENTIO** è il primo marketplace AI-native per il settore Tech/Digital/IT italiano che:
 
 1. **Connette** PMI, freelance (P.IVA) e agenzie con matching automatico entro 24h
 2. **Remunera** i membri anche attraverso royalty sul network (non solo sui propri progetti)
@@ -39,7 +39,7 @@
 
 ### Differenziatori chiave vs Upwork/Fiverr/Malt
 
-| Feature | PRONET | Concorrenti |
+| Feature | TALENTIO | Concorrenti |
 |---------|--------|-------------|
 | AI matching automatico | ✓ | ✗ |
 | Revenue sharing / royalty | ✓ | ✗ |
@@ -60,6 +60,6 @@
 
 ---
 
-> **Nota sul nome:** "PRONET" è un nome di lavoro. Va sostituito con un brand definitivo registrabile prima del lancio pubblico.
+> **Nota sul nome:** "TALENTIO" è un nome di lavoro. Va sostituito con un brand definitivo registrabile prima del lancio pubblico.
 
 *Startup Kit generato: Maggio 2026*

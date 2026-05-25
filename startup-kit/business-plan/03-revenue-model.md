@@ -4,10 +4,10 @@
 
 ## 1. Logica del Modello Ibrido
 
-PRONET adotta un modello **abbonamento + royalty** dove i due componenti si rinforzano:
+TALENTIO adotta un modello **abbonamento + royalty** dove i due componenti si rinforzano:
 
 - **Abbonamento:** revenue prevedibile, filtra i free-rider, finanzia lo sviluppo del prodotto
-- **Royalty sulle transazioni:** allinea gli incentivi — PRONET guadagna di più solo quando i membri guadagnano di più; il piano più costoso ha royalty inferiore, incentivando l'upgrade
+- **Royalty sulle transazioni:** allinea gli incentivi — TALENTIO guadagna di più solo quando i membri guadagnano di più; il piano più costoso ha royalty inferiore, incentivando l'upgrade
 
 **Principio chiave:** la royalty non è una punizione — è il costo dell'infrastruttura che trova i clienti al posto tuo. I membri Starter risparmiano il 60% del tempo in business dev ma cedono il 7% del fatturato; i membri Pro pagano di più ma cedono solo il 4.5%. L'ROI rimane fortemente positivo in entrambi i casi.
 
@@ -49,7 +49,7 @@ PRONET adotta un modello **abbonamento + royalty** dove i due componenti si rinf
 1. PMI e freelance si accordano su un valore contrattuale (es. €10.000)
 2. Il contratto viene firmato digitalmente sulla piattaforma
 3. I pagamenti avvengono via Stripe Connect (escrow)
-4. A ogni milestone completata, PRONET trattiene automaticamente la royalty prima di accreditare il freelance
+4. A ogni milestone completata, TALENTIO trattiene automaticamente la royalty prima di accreditare il freelance
 5. Il freelance riceve il netto; la PMI paga il lordo
 
 ### 3.2 Esempio pratico
@@ -59,10 +59,10 @@ PRONET adotta un modello **abbonamento + royalty** dove i due componenti si rinf
 | Voce | Importo |
 |------|---------|
 | Valore contratto | €8.000 |
-| Royalty PRONET (4.5%) | €360 |
+| Royalty TALENTIO (4.5%) | €360 |
 | Netto al freelance | €7.640 |
 | Abbonamento mensile freelance | €89 |
-| **Revenue PRONET dal progetto** | **€449** |
+| **Revenue TALENTIO dal progetto** | **€449** |
 
 **ROI per il freelance:**
 - Ha trovato il cliente in 24h invece di 2 settimane
@@ -74,7 +74,7 @@ PRONET adotta un modello **abbonamento + royalty** dove i due componenti si rinf
 
 Ogni membro che porta un nuovo membro pagante guadagna:
 - **1 mese gratuito** sul proprio abbonamento per ogni referral attivo
-- **0.5% extra** sulla royalty del referral per i primi 12 mesi (pagato da PRONET, non dal membro referito)
+- **0.5% extra** sulla royalty del referral per i primi 12 mesi (pagato da TALENTIO, non dal membro referito)
 
 Questo crea un flywheel: i membri migliori portano altri professionisti di qualità, che migliorano il network, che aumenta il valore per tutti.
 

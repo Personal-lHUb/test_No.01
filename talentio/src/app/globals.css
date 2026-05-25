@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@700;800;900&family=Inter:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #06060f;
+  --surface: #0d0d1a;
+  --accent: #5b6bff;
+  --teal: #00d4a8;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--bg);
+  color: #dde0f5;
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Grid background pattern */
+.grid-bg {
+  background-image:
+    linear-gradient(rgba(91,107,255,0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(91,107,255,0.04) 1px, transparent 1px);
+  background-size: 60px 60px;
+}
+
+/* Gradient text utility */
+.gradient-text {
+  background: linear-gradient(135deg, #fff 30%, #5b6bff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gradient-text-teal {
+  background: linear-gradient(135deg, #5b6bff, #00d4a8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Glow effects */
+.glow-accent {
+  box-shadow: 0 0 40px rgba(91,107,255,0.3), 0 0 80px rgba(91,107,255,0.1);
+}
+
+.glow-teal {
+  box-shadow: 0 0 30px rgba(0,212,168,0.25);
+}
+
+/* Card hover effect */
+.card-hover {
+  transition: border-color 0.2s, transform 0.2s;
+}
+
+.card-hover:hover {
+  border-color: rgba(91,107,255,0.5);
+  transform: translateY(-2px);
+}
+
+/* Input focus */
+input:focus {
+  outline: none;
+  border-color: #5b6bff;
+  box-shadow: 0 0 0 3px rgba(91,107,255,0.15);
+}
+
+/* Fade-up animation */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-up {
+  animation: fadeUp 0.6s ease forwards;
+}
+
+.delay-100 { animation-delay: 0.1s; }
+.delay-200 { animation-delay: 0.2s; }
+.delay-300 { animation-delay: 0.3s; }
+.delay-400 { animation-delay: 0.4s; }
+
+/* Orb animation */
+@keyframes orbPulse {
+  0%, 100% { transform: scale(1); opacity: 0.7; }
+  50% { transform: scale(1.08); opacity: 1; }
+}
+
+.orb-pulse {
+  animation: orbPulse 4s ease-in-out infinite;
+}
+
+/* Scroll indicator */
+@keyframes scrollDown {
+  0%, 100% { transform: translateY(0); opacity: 1; }
+  50% { transform: translateY(6px); opacity: 0.4; }
+}
+
+.scroll-indicator {
+  animation: scrollDown 1.5s ease-in-out infinite;
+}

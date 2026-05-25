@@ -4,7 +4,7 @@
 
 ## 1. Strategia Generale
 
-PRONET adotta un approccio **community-led growth**: la fiducia e il network si costruiscono dall'interno, non dall'advertising. Le community tech italiane sono relativamente piccole e interconnesse — la reputazione si diffonde velocemente in entrambe le direzioni.
+TALENTIO adotta un approccio **community-led growth**: la fiducia e il network si costruiscono dall'interno, non dall'advertising. Le community tech italiane sono relativamente piccole e interconnesse — la reputazione si diffonde velocemente in entrambe le direzioni.
 
 **Principio:** Non acquisire utenti. Acquisire i 50 professionisti giusti, che portano altri 50, che costruiscono il network per te.
 
@@ -82,7 +82,7 @@ PRONET adotta un approccio **community-led growth**: la fiducia e il network si 
 
 ## 3. Il Flywheel del Network
 
-Il valore di PRONET cresce in modo non lineare all'aumentare della qualità dei membri. Il flywheel funziona così:
+Il valore di TALENTIO cresce in modo non lineare all'aumentare della qualità dei membri. Il flywheel funziona così:
 
 ```
 Freelance/Agenzie verificati + qualificati

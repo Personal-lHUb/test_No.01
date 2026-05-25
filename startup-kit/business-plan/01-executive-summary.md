@@ -26,7 +26,7 @@ Il mercato del lavoro digitale italiano è frammentato, inefficiente e mal servi
 
 ## La Soluzione
 
-**PRONET** è un marketplace AI-native bi-laterale per il settore Tech/Digital/IT.
+**TALENTIO** è un marketplace AI-native bi-laterale per il settore Tech/Digital/IT.
 
 ### Cosa fa
 
@@ -39,7 +39,7 @@ Il mercato del lavoro digitale italiano è frammentato, inefficiente e mal servi
 
 ### Come si differenzia
 
-PRONET non è "l'ennesimo Upwork italiano". È una piattaforma costruita su tre pilastri che i concorrenti non hanno:
+TALENTIO non è "l'ennesimo Upwork italiano". È una piattaforma costruita su tre pilastri che i concorrenti non hanno:
 
 1. **AI-first:** il matching non è una ricerca per parole chiave — è un modello che capisce contesto, storico e fit culturale
 2. **Network economics:** i membri del network si auto-incentivano a portare qualità (peer review) e nuovi membri (royalty sui referral)
@@ -70,7 +70,7 @@ PRONET non è "l'ennesimo Upwork italiano". È una piattaforma costruita su tre 
 **Ibrido abbonamento + royalty** — i due componenti si rinforzano a vicenda:
 
 - **Abbonamento:** garantisce revenue prevedibile e filtra gli utenti seri
-- **Royalty (% sulle transazioni):** allinea gli incentivi — PRONET guadagna di più solo quando i membri guadagnano di più
+- **Royalty (% sulle transazioni):** allinea gli incentivi — TALENTIO guadagna di più solo quando i membri guadagnano di più
 
 ### Piani principali
 

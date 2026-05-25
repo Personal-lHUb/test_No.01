@@ -50,7 +50,7 @@
 | **LinkedIn** | N/A | Recruiting ads | Reach enorme, trust | Non è un marketplace, no contratti, no pagamenti |
 | **Worksome** | ~€30M GMV | SaaS + marketplace | Compliance Europa | Noto solo in UK/DK, no AI, no revenue sharing |
 
-### 2.2 Posizionamento di PRONET
+### 2.2 Posizionamento di TALENTIO
 
 ```
                     QUALITÀ / VERIFICA PROFILI
@@ -59,7 +59,7 @@
                     Toptal    │
                               │
                     Malt      │
-                              │      PRONET (target)
+                              │      TALENTIO (target)
     GENERICO ────────────────────────────────── SPECIALIZZATO (IT Tech)
                               │
               Upwork          │
@@ -69,11 +69,11 @@
                     BASSA QUALITÀ / OPEN ACCESS
 ```
 
-**PRONET si posiziona:** alta qualità/verifica + specializzazione verticale IT Italia + AI matching + revenue sharing unico nel settore
+**TALENTIO si posiziona:** alta qualità/verifica + specializzazione verticale IT Italia + AI matching + revenue sharing unico nel settore
 
 ### 2.3 Gap di mercato confermati
 
-| Gap | Perché è reale | Come PRONET lo colma |
+| Gap | Perché è reale | Come TALENTIO lo colma |
 |-----|---------------|---------------------|
 | Nessun player AI-native nel segmento IT Italia | Tutti i competitor hanno matching manuale o testuale | AI matching engine con embeddings semantici |
 | Nessun revenue sharing per i membri | I competitor trattengono la fee senza returnare valore | Royalty decrescente con tier + guadagni sui referral |
@@ -90,19 +90,19 @@
 - **Chi:** 32 anni, sviluppatore full-stack con 6 anni di esperienza, P.IVA dal 2021
 - **Reddito:** €55K lordi/anno, potenziale €80K+
 - **Problema:** passa 10h/settimana a cercare clienti; Upwork lo penalizza contro profili est-europei; non sa se i suoi prezzi sono competitivi
-- **What PRONET gives him:** match automatico con PMI che cercano il suo profilo esatto, BI che gli dice "i dev React senior in Milano fatturano in media €550/giorno", royalty sui colleghi che ha referito
+- **What TALENTIO gives him:** match automatico con PMI che cercano il suo profilo esatto, BI che gli dice "i dev React senior in Milano fatturano in media €550/giorno", royalty sui colleghi che ha referito
 
 ### 3.2 Persona: Sofia (CEO PMI)
 
 - **Chi:** 45 anni, CEO di una PMI manifatturiera di 80 persone che sta digitalizzando i processi
 - **Problema:** ha bisogno di un dev backend per 3 mesi ma non sa dove trovarlo; i candidati da LinkedIn non sono verificati; i tempi si allungano e perdono soldi
-- **What PRONET gives her:** entro 24h riceve 3-5 profili verificati e scorati per il suo progetto specifico, con review di altri clienti simili alla sua azienda
+- **What TALENTIO gives her:** entro 24h riceve 3-5 profili verificati e scorati per il suo progetto specifico, con review di altri clienti simili alla sua azienda
 
 ### 3.3 Persona: Luca (Agenzia 8 persone)
 
 - **Chi:** fondatore di una piccola agenzia digitale, spesso riceve richieste che non riesce a gestire internamente
 - **Problema:** passa ore a trovare freelance di fiducia per l'overflow; non guadagna nulla dai referral che fa
-- **What PRONET gives him:** un piano Agency che gli permette di gestire il network, fare overflow strutturato, e guadagnare royalty ogni volta che un freelance del suo network viene ingaggiato attraverso la piattaforma
+- **What TALENTIO gives him:** un piano Agency che gli permette di gestire il network, fare overflow strutturato, e guadagnare royalty ogni volta che un freelance del suo network viene ingaggiato attraverso la piattaforma
 
 ---
 

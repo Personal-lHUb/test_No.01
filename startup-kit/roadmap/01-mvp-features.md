@@ -180,7 +180,7 @@ Le feature sono prioritizzate con il framework **RICE**:
 **When** la PMI approva una milestone  
 **Then:**
 - Stripe trasferisce automaticamente al netto royalty entro 24h
-- Royalty accreditata al conto PRONET
+- Royalty accreditata al conto TALENTIO
 - Fattura auto-generata per entrambe le parti
 
 ---

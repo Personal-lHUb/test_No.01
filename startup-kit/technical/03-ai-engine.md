@@ -4,11 +4,11 @@
 
 ## 1. Overview del Sistema AI
 
-Il sistema AI di PRONET è composto da **quattro moduli distinti** che comunicano tra loro:
+Il sistema AI di TALENTIO è composto da **quattro moduli distinti** che comunicano tra loro:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    AI ENGINE PRONET                         │
+│                    AI ENGINE TALENTIO                         │
 │                                                             │
 │  ┌─────────────┐  ┌──────────────┐  ┌─────────────────┐   │
 │  │  MATCHING   │  │   SCORING    │  │   BUSINESS      │   │
@@ -295,7 +295,7 @@ Il modello Gradient Boosting viene re-addestrato ogni 30 giorni su:
 | **Proactive outreach** | M6 | AI suggerisce a freelance di candidarsi proattivamente su progetti a fit alto |
 | **Price negotiation AI** | M8 | Suggerisce range di prezzo ottimale per contratto specifico |
 | **Fraud detection** | M6 | Rilevamento anomalie nei pattern di review e transazioni |
-| **Fine-tuned embedding model** | M12 | Modello custom addestrato su dati PRONET per embedding più accurati del mercato italiano |
+| **Fine-tuned embedding model** | M12 | Modello custom addestrato su dati TALENTIO per embedding più accurati del mercato italiano |
 | **Contract auto-draft** | M10 | AI genera bozza contratto da specifiche del progetto |
 
 ---
