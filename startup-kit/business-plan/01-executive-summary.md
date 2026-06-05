@@ -53,15 +53,19 @@ TALENTIO non è "l'ennesimo Upwork italiano". È una piattaforma costruita su tr
 
 | | Descrizione | Valore |
 |---|-------------|--------|
-| **TAM** | Mercato europeo del lavoro digitale freelance | €42B |
-| **SAM** | Mercato italiano Tech/Digital + diaspora italiana in Europa | €890M |
-| **SOM (Anno 3)** | Quota realistica con focus IT + early EU | €15-20M ARR |
+| **TAM** | Mercato digitale italiano totale (Assintel 2025) | **€44,3B** |
+| **TAM EU** | Mercato staffing EU totale (SIA 2024) | **€579B** |
+| **SAM** | Lavoro tech freelance platform-mediated Italia | **€200M–€600M GMV** |
+| **SOM (Anno 3)** | Quota realistica Italia + early EU | **€10–15M ARR** |
 
 ### Crescita del mercato
 
-- Il lavoro freelance digitale cresce al **14% annuo** in Italia (Osservatorio Lavoro Digitale 2025)
-- La Platform Work Directive UE (2025) aumenta la compliance richiesta → vantaggio per player locali
-- Post-AI: la domanda di professionisti tech specializzati cresce più velocemente dell'offerta
+- Piattaforme freelance EU crescono al **18,5–29,1% CAGR** (2024–2029) — *Grand View Research / Technavio*
+- Domanda AI skills su piattaforme EU: **+230%** in un anno (offerta +31%) → gap strutturale irrisolto
+- Solo **15,7%** delle PMI italiane ha adottato tecnologie AI → enorme backlog domanda tech freelancer
+- **Platform Work Directive (UE) 2024/2831** — recepimento entro dic 2026 → vantaggio piattaforme compliance-first
+- **PNRR:** €41,3 miliardi per digitalizzazione italiana (2022–2026) → picco domanda tech nel 2025–2026
+- **Malt, il principale competitor EU, non opera in Italia** — finestra di primo entrante aperta
 
 ---
 
@@ -74,16 +78,19 @@ TALENTIO non è "l'ennesimo Upwork italiano". È una piattaforma costruita su tr
 
 ### Piani principali
 
-| Piano | Prezzo | Royalty |
-|-------|--------|---------|
-| Starter (freelance) | €39/mese | 7% |
-| Pro (freelance) | €89/mese | 4.5% |
-| Agency | €249/mese | 3% |
-| PMI Basic | €199/mese | 6% |
-| PMI Pro | €499/mese | 4% |
+| Piano | Prezzo | Royalty | vs. Upwork |
+|-------|--------|---------|-----------|
+| Starter (freelance) | €39/mese | 7% | Upwork 22–34% effettivo |
+| Pro (freelance) | €89/mese | 4.5% | ROI positivo già al primo progetto |
+| Agency | €249/mese | 3% | — |
+| PMI Basic | €199/mese | 6% | — |
+| PMI Pro | €499/mese | 4% | — |
 
 **ARPU target steady state:** €145/mese  
-**LTV target:** €2.600 (18 mesi di vita media)
+**LTV target:** €2.600 (18 mesi di vita media)  
+**LTV/CAC target:** ≥7x (benchmark B2B marketplace: 3,6x median — *Benchmarkit 2024*)
+
+> **Benchmark chiave:** i modelli subscription generano **70% CLV in più** vs pure transactional e sono valutati a **2,28–2,53x revenue** (vs 1,01–1,37x per transaction-only) — *ACR Journal; market data 2025*
 
 ---
 
@@ -91,11 +98,15 @@ TALENTIO non è "l'ennesimo Upwork italiano". È una piattaforma costruita su tr
 
 | | Anno 1 | Anno 2 | Anno 3 |
 |---|--------|--------|--------|
-| Utenti attivi paganti | 400 | 2.500 | 12.000 |
-| ARR | €432K | €3.9M | €21.6M |
-| Costi operativi | €380K | €1.8M | €7.5M |
-| EBITDA | €52K | €2.1M | €14.1M |
-| EBITDA % | 12% | 54% | 65% |
+| Utenti attivi paganti | 400 | 2.500 | **8.000** |
+| ARR | €432K | €3.9M | **€14M** |
+| Costi operativi | €380K | €1.8M | €6.5M |
+| EBITDA | €52K | €2.1M | **€7.5M** |
+| EBITDA % | 12% | 54% | 54% |
+
+*Anno 3 rivisto da 12K a 8K utenti sulla base di benchmark settoriali. Lo scenario ottimistico (12K utenti, €21M ARR) rimane nel range possibile con execution superiore. Scenario conservativo: 5K utenti, €8.5M ARR, EBITDA positivo.*
+
+**EU AI Act compliance note:** il sistema di AI matching di TALENTIO è classificato **HIGH-RISK** (Annex III, UE). L'enforcement inizia il 2 agosto 2026. Il budget legale/compliance è incrementato di conseguenza.
 
 ---
 

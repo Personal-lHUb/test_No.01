@@ -6,13 +6,17 @@
 
 ### 1.1 Dimensioni
 
-| Segmento | Numero | Note |
-|----------|--------|------|
-| Professionisti con P.IVA (totale IT) | ~2,1M | INPS 2025 |
-| P.IVA settore Tech/Digital/IT | ~400K | Stima su categorie ATECO |
-| Agenzie e studi digitali (2-20 persone) | ~18.000 | |
+| Segmento | Numero | Fonte |
+|----------|--------|-------|
+| Lavoratori indipendenti totali in Italia | **5,17M** (+2,8% YoY) | ISTAT Labour Force Survey Q1 2025 |
+| % della forza lavoro (21% totale 24,3M) | 5,17M | ISTAT 2025 |
+| Iscritti INPS Gestione Separata | ~1,7M (totale); ~544K professional | INPS Osservatorio 2024 |
+| **P.IVA settore Tech/Digital/IT (stima rivista)** | **150.000–250.000** | Derivato: 4,1% ICT share × lavoratori indipendenti |
+| Agenzie e studi digitali (2-20 persone) | ~18.000 | Stima settoriale |
 | PMI con budget IT attivo | ~82.000 | Confindustria Digitale 2025 |
-| PMI che hanno usato freelance tech negli ultimi 12 mesi | ~34.000 | Osservatorio Lavoro Digitale |
+| PMI che collaborano esternamente per digital transformation | **~53.000** (65% delle PMI attive) | Osservatori Politecnico di Milano 2024 |
+
+> **Revisione metodologica:** la stima precedente di 400K P.IVA tech è aggiornata a 150K–250K sulla base di dati INPS/ISTAT più precisi (ICT = 4,1% dell'occupazione totale). L'Italia ha un gap rispetto alla media EU (4,8%) — segnale di mercato ancora in crescita, non saturo.
 
 ### 1.2 Tendenze strutturali
 
@@ -30,10 +34,28 @@
 
 ### 1.3 Perché ora
 
-1. **AI abilita il matching semantico** — prima impossibile senza costi proibitivi
-2. **Platform Work Directive UE (2025)** — regolamenta i marketplace di lavoro, vantaggio per chi è compliance-first
-3. **Post-pandemia remote-first** — le PMI italiane sono finalmente pronte a lavorare con freelance remoti verificati
-4. **Maturità dei pagamenti digitali B2B** — Stripe Connect, PagoPA, fatturazione elettronica obbligatoria rendono l'automazione possibile
+1. **AI matching è 2,1x migliore del keyword** — score semantico 0,74 vs 0,35 keyword (Information Sciences / ACM 2025)
+2. **Platform Work Directive (UE) 2024/2831** — adottata ottobre 2024, recepimento Italia entro 2 dicembre 2026 → vantaggio player compliance-first
+3. **PNRR demand wave** — €41,3B per digitalizzazione italiana in scadenza 2026 → picco domanda strutturata di tech freelancer **ora**
+4. **Malt non è in Italia** — il principale competitor europeo ha scelto di non espandersi in Italia (focus France/Spain/Germany/Netherlands)
+5. **Solo il 15,7% delle PMI ha adottato AI** (ISTAT 2024) — la domanda di competenze tech specializzate supera l'offerta
+6. **AI skills gap enorme** — domanda AI su piattaforme EU +230% in un anno; offerta freelancer +31% (Malt Tech Trends 2025)
+7. **Maturità pagamenti B2B** — fatturazione elettronica obbligatoria per tutte le P.IVA dal 2024, Stripe Connect, PagoPA rendono l'automazione end-to-end possibile
+
+### 1.4 Pain point dei freelancer italiani (ricerca verificata)
+
+*Fonte: Qonto Observatory, 1.600 imprenditori/freelancer — Italia, Francia, Germania, Spagna, novembre 2025*
+
+| Rank | Pain Point | Dato chiave |
+|------|-----------|-------------|
+| 1 | Trovare clienti dipende dal passaparola | ~80% trova clienti solo via rete personale |
+| 2 | Discontinuità reddito e ritardi pagamenti | Pagamenti B2B in Italia: 60–90 giorni (peggiori EU) |
+| 3 | Complessità burocratica/fiscale | **80%** trova l'ambiente "complesso"; Italia 9,2pp sopra media EU |
+| 4 | Credibilità e difesa tariffe | 13,5% problemi di credibilità (7pp sopra media EU) |
+| 5 | Welfare e protezioni sociali insufficienti | INPS GS 26,07% contributi; nessun equivalente CIG |
+| 6 | Scarsa internazionalizzazione | Barriere linguistiche, difficoltà fatturazione estera |
+
+**Implicazione prodotto:** TALENTIO risolve direttamente i pain point #1, #2, e #3 — i tre principali. Nessun competitor attuale lo fa in italiano.
 
 ---
 
@@ -41,14 +63,15 @@
 
 ### 2.1 Panorama globale
 
-| Piattaforma | GMV annuo | Modello | Punti di forza | Punti deboli |
-|-------------|-----------|---------|---------------|-------------|
-| **Upwork** | $4.1B | Fee 5-20% su transazioni | Brand, volume globale | Generico, saturo di profili low-cost, no AI matching |
-| **Fiverr** | $0.9B | Fee fissa + 20% | Semplicità, micro-task | Non adatto per PMI, no contratti, qualità variabile |
-| **Malt** | €100M GMV | 10% su transazioni | Europa, qualità media alta | No AI, no royalty, no BI, focus France/DACH |
-| **Toptal** | ~$200M | Fee alta + selezione rigorosa | Qualità premium garantita | Troppo costoso per PMI, no agenzie, lento |
-| **LinkedIn** | N/A | Recruiting ads | Reach enorme, trust | Non è un marketplace, no contratti, no pagamenti |
-| **Worksome** | ~€30M GMV | SaaS + marketplace | Compliance Europa | Noto solo in UK/DK, no AI, no revenue sharing |
+| Piattaforma | Dati 2024-2025 | Modello fee | Italia | Punti deboli chiave |
+|-------------|---------------|-------------|--------|---------------------|
+| **Upwork** | **$769,3M revenue FY2024** (+12% YoY) | 0–15% freelancer + 3–10% cliente = **22–34% costo reale** | Global, no localizzazione | Commoditizzato; frode alta; costo reale nascosto |
+| **Malt** | **GMV €400M+** (2022); target €1B | 2–10% freelancer / 15–20% cliente | **NON OPERATIVA IN ITALIA** | France-centric; no subscription; no revenue sharing |
+| **Toptal** | ~$200–300M ARR (stima privata) | 0% freelancer (margin nel blended rate $60–200+/ora) | Global; costi vietati a PMI | Troppo costoso; lento; trial richiesto |
+| **Braintrust** | 1,25M membri; $4B+ processato | **0% freelancer**; ~10% cliente (DAO treasury) | **EU: frizione crypto/MiCA** | Token volatility; DAO governance lento |
+| **Contra** | 1M+ freelancer; $45M+ raised | **0% commissione**; $199/anno Pro | **US-only, no EU** | No presenza EU; dollar-denominated |
+| **LinkedIn SM** | **10M+ service provider** (48% crescita YoY) | 0% entrambi (discovery only) | **Forte in Italia** (20M+ utenti IT) | No pagamenti, no contratti, no escrow |
+| **Freelancer.com** | Global | 10–20% freelancer + 3% cliente | Presente; no UX italiana | Qualità bassa; nessun valore aggiunto |
 
 ### 2.2 Posizionamento di TALENTIO
 
@@ -110,22 +133,32 @@
 
 ### TAM — Total Addressable Market
 
-Il mercato europeo del lavoro digitale freelance vale ~€42B annui (Staffing Industry Analysts, 2025).  
-Con l'espansione dell'AI e della Platform Work Directive, si stima crescita al 12-15% annuo fino al 2030.
+**Livello 1 — Italia:**
+- Mercato digitale italiano totale: **€44,3B** (Assintel Report 2025, +4,5% YoY)
+- Lavoro tech esterno/freelance stimato (10–15% del totale ICT): **€4,4B–€6,6B/anno**
+
+**Livello 2 — Europa:**
+- Mercato staffing EU totale: **€579B** (SIA 2024) — il più grande al mondo
+- Piattaforme freelance EU (revenue): **$1,5B–$2,5B/anno** in crescita al 18,5% CAGR
+- Global freelance platform market: **$8,35B** (2025) → **$9,91B** (2026)
 
 ### SAM — Serviceable Addressable Market
 
-Focus su Italia + segmento Tech/Digital/IT:
-- ~400K freelance tech italiani, di cui ~120K "attivi" e con volumi significativi
-- ~34K PMI che già usano freelance tech
-- Spesa media stimata: €18.000/anno per PMI + €6.000/anno per freelance (abbonamento + royalty)
-- **SAM stimato: €890M**
+Focus Italia + Tech/Digital/IT — base rivista con dati verificati:
+- **150K–250K** P.IVA tech attivi (revisione al ribasso da 400K: ICT = 4,1% forza lavoro)
+- ~53K PMI che collaborano esternamente su digital transformation (65% × ~82K PMI con budget IT)
+- GMV platform-mediated stimato: **€200M–€600M/anno**
+- Revenue a tasso di take 10% medio: **€20M–€60M/anno** — questo è il SAM in revenue
+- **SAM (revenue) aggiornato: €20M–€60M** (il modello originale di €890M si riferiva al GMV lordo totale del lavoro freelance, non al revenue di piattaforma)
 
 ### SOM — Serviceable Obtainable Market
 
-Scenario base Anno 3 (con €350K seed + focus Italia → EU):
-- 12.000 utenti attivi × €150 ARPU × 12 = **~€21M ARR**
-- Quota di mercato: ~2.4% del SAM italiano — conservativa e raggiungibile
+Scenario base Anno 3 — bottom-up:
+- **8.000 utenti attivi** × **€145 ARPU** × 12 = **~€14M ARR** (subscription)
+- Royalty su GMV: 8.000 utenti con 3 progetti/anno a €5.000 medio = €120M GMV × 5% avg take = **€6M royalty**
+- **SOM Anno 3: ~€14–16M ARR** — ~1,5% del SAM GMV potenziale (~€900M a piena maturità)
+
+*Scenario ottimistico (12K utenti): €21M ARR. Scenario conservativo (5K utenti): €8.5M ARR, ancora EBITDA-positivo.*
 
 ---
 

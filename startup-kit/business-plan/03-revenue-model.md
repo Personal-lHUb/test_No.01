@@ -11,6 +11,36 @@ TALENTIO adotta un modello **abbonamento + royalty** dove i due componenti si ri
 
 **Principio chiave:** la royalty non è una punizione — è il costo dell'infrastruttura che trova i clienti al posto tuo. I membri Starter risparmiano il 60% del tempo in business dev ma cedono il 7% del fatturato; i membri Pro pagano di più ma cedono solo il 4.5%. L'ROI rimane fortemente positivo in entrambi i casi.
 
+### 1.1 Perché il modello ibrido è ottimale — dati di mercato verificati
+
+| Modello | CLV vs. pure transactional | Valuation multiple | Churn primi 90 giorni | Fonte |
+|---------|--------------------------|-------------------|----------------------|-------|
+| Pure transactional (es. Upwork) | baseline | 1,01–1,37x revenue | **43%** | Benchmarkit 2024 |
+| Pure subscription | **+70% CLV** | 2,28–2,53x revenue | ~15–20% | ACR Journal; Swell.is |
+| **Hybrid sub + royalty (TALENTIO)** | **+44–78% CLV** | **~2,0–2,4x revenue** | ~15–20% | a16z; NFX |
+
+**Conclusione:** il modello ibrido è il più favorevole agli investitori (multiplo di valutazione) E ai clienti (lower churn), pur mantenendo il link transazionale che giustifica la royalty.
+
+### 1.2 Confronto competitivo: quanto costa davvero la concorrenza
+
+| Piattaforma | Costo freelancer | Costo cliente | Costo totale reale | Note |
+|-------------|-----------------|--------------|-------------------|------|
+| **Upwork** | 0–15% | 3–10% + fees | **22–34%** del valore contratto | Costo nascosto, resistenza crescente |
+| **Malt** | 2–10% | 15–20% | **17–30%** | Solo commissione, no subscription value |
+| **Toptal** | 0% (margin nel blended) | blended $60–200+/ora | **30–50%** stima | Solo enterprise |
+| **TALENTIO Pro + PMI Pro** | €89/mese + 4,5% | €349/mese + 4% | **~€5–9% + sub flat** | ROI positivo già al 1° progetto |
+
+Su un progetto da €8.000: Upwork costa €1.760–€2.720; TALENTIO Pro costa €360 (royalty) + ~€178 (quota mensile bimestrale) = **€538 totale** — risparmio del 70%+ vs Upwork.
+
+### 1.3 Evoluzione struttura fee verso la scala
+
+**Insight da Braintrust (1,25M membri, $4B+ processed):** il modello più efficace per supply-side retention è **0% fee freelancer, fee solo lato cliente**. I freelancer non percepiscono la piattaforma come una tassa ma come un enabler.
+
+**Roadmap evoluzione TALENTIO:**
+- **Fase MVP (0–2.000 utenti):** modello attuale — royalty su entrambi i lati, subscription su entrambi i lati
+- **Fase Scale (2.000–10.000 utenti):** introduzione opzione "subscription-only" per freelancer senior (€149/mese, 0% royalty) — incentiva i top earner a rimanere sulla piattaforma
+- **Fase Maturità (10.000+ utenti):** struttura ottimale Braintrust-inspired — freelancer pagano solo subscription; PMI pagano subscription + royalty
+
 ---
 
 ## 2. Piani di Abbonamento
@@ -96,15 +126,17 @@ Questo crea un flywheel: i membri migliori portano altri professionisti di quali
 
 ### 5.1 Metriche chiave
 
-| Metrica | Anno 1 (early) | Anno 2 (growing) | Anno 3 (mature) |
-|---------|---------------|-----------------|----------------|
-| ARPU mensile | €90 | €130 | €150 |
-| CAC (Customer Acquisition Cost) | €220 | €165 | €130 |
-| LTV (18 mesi avg.) | €1.620 | €2.340 | €2.700 |
-| LTV/CAC | 7.4x | 14.2x | 20.8x |
-| Churn mensile | 5% | 3.5% | 2.5% |
-| Payback period | 2.4 mesi | 1.3 mesi | 0.9 mesi |
-| Gross Margin | 72% | 78% | 82% |
+| Metrica | Anno 1 (early) | Anno 2 (growing) | Anno 3 (mature) | Benchmark settore |
+|---------|---------------|-----------------|----------------|-------------------|
+| ARPU mensile | €90 | €130 | €150 | B2B marketplace: €100–€250 |
+| CAC (self-serve) | €220 | €165 | €130 | Benchmark: $200–$600 |
+| LTV (18 mesi avg.) | €1.620 | €2.340 | €2.700 | — |
+| LTV/CAC | 7.4x | 14.2x | 20.8x | **Benchmark: 3,6x** (Benchmarkit 2024) |
+| Churn mensile | 5% | 3.5% | 2.5% | Obiettivo <3%; pure transactional: 43% nei primi 90gg |
+| Payback period | 2.4 mesi | 1.3 mesi | 0.9 mesi | Benchmark settore: 6–12 mesi |
+| Gross Margin | 72% | 78% | 82% | Benchmark SaaS: 70–85%; Upwork GAAP: 77% (2024) |
+
+**Nota:** i target LTV/CAC di 7–20x superano significativamente il benchmark di settore (3,6x). Anno 1 è realistico grazie al basso CAC supply-side (community-driven). Anni 2–3 richiedono retention superiore alla media — dipende dalla qualità dei match e dal NPS.
 
 ### 5.2 Breakdown costi variabili per utente/mese
 
